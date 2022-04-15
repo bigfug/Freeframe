@@ -66,8 +66,6 @@ set( CTEST_OUTPUT_ON_FAILURE ON )
 
 #----------------------------------------------------------------------------
 
-#add_subdirectory( freeframe )
+add_subdirectory( FreeFrame )
 #add_subdirectory( tester )
-
-add_subdirectory( ff20 )
 
