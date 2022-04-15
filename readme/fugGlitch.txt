@@ -1,0 +1,12 @@
+fugGlitch - a real-time video glitcher by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a commercial plugin.  If you use it and didn't buy it, please
+support further development by purchasing a license.  It's cheap!
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugGlitch.frf to your FreeFrame host plugin directory
+
+

@@ -1,0 +1,2 @@
+LIBRARY			fugVideoSampler
+EXPORTS			plugMain

@@ -1,0 +1,22 @@
+LIBRARY		fugVidStreamLib2
+EXPORTS
+	fugGetEncoder
+	fugSetDestAddress
+	fugSetDestFormat
+	fugEncode
+	fugDeleteEncoder
+	fugGetDecoder
+	fugSetSourceAddress
+	fugLockReadBuffer
+	fugUnlockReadBuffer
+	fugHasNewFrame
+	fugWaitForNewFrame
+	fugGetRecvWidth
+	fugGetRecvHeight
+	fugGetRecvDepth
+	fugGetRecvOrientation
+	fugGetFrameNumber
+	fugDeleteDecoder
+	fugSetAdaptiveBuffer
+	fugGetByteSize
+	fugGetCompressedFrameSize

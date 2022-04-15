@@ -1,0 +1,12 @@
+fugVidStreamLib - the shared library for video streaming by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The latest version of this library is always available at:
+
+http://www.bigfug.com/software/video-streaming/
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugVidStreamLib.framework to /Library/Frameworks/
+

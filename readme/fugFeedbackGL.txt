@@ -1,0 +1,18 @@
+fugFeedbackGL - a real-time video feedback plugin by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a commercial plugin.  If you use it and didn't buy it, please
+support further development by purchasing a license.  It's cheap!
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Windows:
+
+Copy fugFeedbackGL.dll to your FreeFrame host plugin directory
+
+OSX:
+
+Copy fugFeedbackGL.bundle to your FreeFrame host plugin directory
+
+

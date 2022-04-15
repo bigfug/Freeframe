@@ -1,0 +1,2 @@
+LIBRARY			fugRGBChannelKey
+EXPORTS			plugMain

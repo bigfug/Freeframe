@@ -1,0 +1,2 @@
+LIBRARY			fugStreamReceive
+EXPORTS			plugMain

@@ -1,0 +1,16 @@
+fugScopeGL - a real-time audio waveform renderer by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a commercial plugin.  If you use it and didn't buy it, please
+support further development by purchasing a license.  It's cheap!
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugScopeGL.bundle to your FreeFrame host plugin directory
+
+Usage Instructions
+~~~~~~~~~~~~~~~~~~
+
+fugScopeGL is a SOURCE plugin.  In Resolume you'll find it in the sources tab (not the effects tab)
+

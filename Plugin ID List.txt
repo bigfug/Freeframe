@@ -1,0 +1,29 @@
+BF00 - fugChromaParallax
+BF01 - fugHueKey
+BF02 - fugLuma3D
+BF03 - fugLumaBendMask
+BF04 - fugLumaParallax
+BF05 - fugMidiOut
+BF06 - fugMotionMatte
+BF07 - fugRGBChannelKey
+BF08 - fugRGBKey
+BF09 - fugRGBMixer
+BF10 - fugScope
+BF11 - fugSobel
+BF12 - fugStreamReceive
+BF13 - fugStreamReceive (Source)
+BF14 - fugStreadSend
+BF15 - fugThermal
+BF16 - fugThresholdKey
+BF17 - fugVideoSampler
+BF18 - fugAlpha
+BF19 - fugStreamSendGL
+BF20 - fugStreamRecvGL
+BF21 - fugWrapperGL
+
+BF24 - fugScope
+BF25 - fugPower
+BF26 - fugGlitch
+BF27 - fugTunnel
+
+BF41 - fugFeedback

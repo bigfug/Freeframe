@@ -1,0 +1,20 @@
+fugVidSnd2 - a FreeFrame video streaming sender by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a commercial plugin.  If you use it and didn't buy it, please
+support further development by purchasing a license.  It's cheap!
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugVidSnd2.frf to your FreeFrame host plugin directory
+
+Copy fugVidStreamLib.framework to /Library/Frameworks
+
+Usage Instructions
+~~~~~~~~~~~~~~~~~~
+
+fugVidSnd2 is configured using the fugVidStreamTool that is available for free from
+
+http://www.bigfug.com/software/video-streaming/fugvidstreamtool/
+

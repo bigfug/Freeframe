@@ -1,0 +1,13 @@
+fugSyphonReceive  - a Syphon video stream receiver by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a commercial application.  If you use it and didn't buy it, please
+support further development by purchasing a license.  It's cheap!
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugSyphonReceive.app to your Applications directory
+
+Copy fugVidStreamLib.framework to /Library/Frameworks
+

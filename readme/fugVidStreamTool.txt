@@ -1,0 +1,14 @@
+fugVidStreamTool - the video streaming test and configuration tool  by Alex May - www.bigfug.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tutorials can be found at:
+
+http://www.bigfug.com/software/video-streaming/
+
+Installation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Copy fugVidStreamTool.app to your Applications directory
+
+Copy fugVidStreamLib.framework to /Library/Frameworks
+
