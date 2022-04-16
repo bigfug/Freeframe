@@ -1,3 +1,4 @@
+#include "PluginBase.h"
 
 #include <gl/glew.h>
 

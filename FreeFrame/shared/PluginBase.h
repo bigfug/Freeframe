@@ -1,6 +1,11 @@
 
 #pragma once
 
+#ifdef __APPLE__
+#include <inttypes.h>
+typedef uint32_t DWORD;
+#endif
+
 #if defined( FF_VERSION_10 )
 #include <FreeFrame.h>
 #else
